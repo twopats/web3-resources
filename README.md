@@ -64,6 +64,20 @@ https://github.com/pcaversaccio/reentrancy-attacks
 A community effort to record past EVM reentrancy attacks. Consider that theDAO hack that led to the only hardfork of Ethereum capitlized on reentrancy vulnerabilities. That did not stop following reentrancy vulnerabilities from showing on contracts post theDAO incident. Also worth noting that these vulnerabilities follow a recognizable pattern that can be detected through static analysis of the source code or tracing of the contract bytecode in formal-verification.
 
 ---
+### Parity Wallet Hack
+
+https://medium.com/@rtaylor30/how-i-snatched-your-153-037-eth-after-a-bad-tinder-date-d1d84422a50b
+
+Medium article written by the exploiter himself. This article explains the though process and an anecdotal account of the evening this attack manifested. Posted under pseudonym "Mitch Brenner". Notable that the exploiter finds pleasure glorifying the act with the publication of this post.
+
+Main Vunerability:
+
+The initWallet() function should have been a function called only internally. However, there was no such specification in the contract's code.
+
+Quote from the author:
+
+> Look, here’s the thing. If you’re holding 30 million dollars in 250 lines of code that you haven’t audited, then it’s on you.
+---
 
 ### Auditor Roadmap 
 
