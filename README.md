@@ -1,3 +1,30 @@
+                        .                   
+                       (,.                  
+                     (((,...                
+                    ((((,....               
+                  ((((((,......             
+                 (((((((,.......            
+               (((((((((,.........          
+              ((((((((((,..........         
+            ((((((((((((,............       
+           (((((((((((((,.............      
+         (((((((((((((,,.  .............    
+        (((((((((,,,,,,,.       .........   
+      (((((,,,,,,,,,,,,,.             ..... 
+     (,,,,,,,,,,,,,,,,,,.                  .
+        ,,,,,,,,,,,,,,,,.                   
+     (      ,,,,,,,,,,,,.                  ,
+       (((      ,,,,,,,,.              ,,,  
+        ((((((      *,,,.          ,,,,,.   
+          ((((((((             ,,,,,,,,     
+            (((((((((((   ,,,,,,,,,,,       
+              ((((((((((*,,,,,,,,,,         
+               .((((((((*,,,,,,,,           
+                 (((((((*,,,,,,,            
+                   (((((*,,,,,              
+                     (((*,,,                
+                       (*,    
+
 # web3-resources
 
 This repo is a hub of useful educational resources and documentations that I found helpful on my exploration on the following topics:
@@ -9,8 +36,9 @@ This repo is a hub of useful educational resources and documentations that I fou
 - smart contracts security
 - regenerative web3
 
-I hope that these may serve you on your adventure as well.
+I hope that these may serve you on your adventures as well :^)
 
+---
 ### ConsenSys Resources
 
 Consensys is a web3 powerhouse. There are many good bookmarks to leave.
